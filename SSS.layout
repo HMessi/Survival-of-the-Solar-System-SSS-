@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Element.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="43" topLine="0" />
+	</File>
+	<File name="Element.h" open="0" top="0" tabpos="2">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="Fire.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="Fire.h" open="0" top="0" tabpos="11">
+		<Cursor position="81" topLine="0" />
+	</File>
+	<File name="Jet.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="260" topLine="0" />
+	</File>
+	<File name="Jet.h" open="0" top="0" tabpos="4">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="Rocks.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="Rocks.h" open="0" top="0" tabpos="0">
+		<Cursor position="121" topLine="0" />
+	</File>
+	<File name="SSS.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="41" topLine="0" />
+	</File>
+	<File name="Star.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="Star.h" open="0" top="0" tabpos="6">
+		<Cursor position="81" topLine="0" />
+	</File>
+	<File name="World.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="13603" topLine="540" />
+	</File>
+	<File name="World.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="stdafx.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

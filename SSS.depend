@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1439865662 source:c:\users\hussein_messi\desktop\sss\jet star.cpp
+	"gwin.h"
+	"World.h"
+
+1436265470 c:\users\hussein_messi\desktop\sss\world.h
+
+1440058508 source:c:\users\hussein_messi\desktop\sss\jet.cpp
+	"Jet.h"
+	"Fire.h"
+
+1440012726 c:\users\hussein_messi\desktop\sss\jet.h
+	"StdAfx.h"
+	"Element.h"
+	"Fire.h"
+
+1334629802 c:\users\hussein_messi\desktop\sss\stdafx.h
+	<iostream>
+	"gwin.h"
+
+1335890108 c:\users\hussein_messi\desktop\sss\element.h
+
+1334734136 c:\users\hussein_messi\desktop\sss\missile.h
+	"Element.h"
+
+1439759831 source:c:\users\hussein_messi\desktop\sss\missile.cpp
+	"Missile.h"
+
+1439881895 source:c:\users\hussein_messi\desktop\sss\obstacle.cpp
+	"Obstacle.h"
+	"Missile.h"
+
+1440012180 c:\users\hussein_messi\desktop\sss\obstacle.h
+	"StdAfx.h"
+	"Element.h"
+	"Fire.h"
+
+1440061124 source:c:\users\hussein_messi\desktop\sss\star.cpp
+	"Star.h"
+
+1334805346 c:\users\hussein_messi\desktop\sss\star.h
+	"Element.h"
+
+1440137279 source:c:\users\hussein_messi\desktop\sss\world.cpp
+	<ctime>
+	"gwin.h"
+	"World.h"
+	"Jet.h"
+	"Rocks.h"
+	"Star.h"
+	<cmath>
+	<string>
+	<fstream>
+	<iostream>
+	<math.h>
+	"sound.h"
+
+1438064657 c:\users\hussein_messi\desktop\sss\sound.h
+
+1436264859 source:c:\users\hussein_messi\desktop\sss\stdafx.cpp
+	"stdafx.h"
+
+1439759831 source:c:\users\hussein_messi\desktop\sss\element.cpp
+	"gwin.h"
+	"Element.h"
+
+1439865662 source:c:\users\hussein_messi\desktop\sss\sss.cpp
+	"gwin.h"
+	"World.h"
+
+1440012079 c:\users\hussein_messi\desktop\sss\fire.h
+	"Element.h"
+
+1440056811 source:c:\users\hussein_messi\desktop\sss\fire.cpp
+	"Fire.h"
+
+1440060653 source:c:\users\hussein_messi\desktop\sss\rocks.cpp
+	"Rocks.h"
+	"Fire.h"
+
+1440012965 c:\users\hussein_messi\desktop\sss\rocks.h
+	"StdAfx.h"
+	"Element.h"
+	"Fire.h"
+
